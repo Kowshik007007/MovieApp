@@ -19,7 +19,7 @@ Open your terminal.
 Navigate to the directory where you want to clone the project.
 
 Run the following command:
-
+https://github.com/Kowshik007007/MovieApp.git
 Open the Project in Xcode
 Locate the .xcodeproj file or .xcworkspace file in the project directory.
 Double-click on the file to open the project in Xcode.
